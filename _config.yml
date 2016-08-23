@@ -1,0 +1,14 @@
+layout_spectrum: 0.9772436909843236
+typography_spectrum: 0.6289807979483157
+color:
+  brandStrength: 0.5489984168671072
+  lightness: 0.5704147426877171
+  saturation: 0.5361131813842803
+  rhythmicContrast: 0.08130066655576229
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: scarfie.me

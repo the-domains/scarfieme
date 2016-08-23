@@ -6,9 +6,9 @@ color:
   saturation: 0.5361131813842803
   rhythmicContrast: 0.08130066655576229
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: scarfie.me
